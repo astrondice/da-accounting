@@ -115,3 +115,23 @@ select {
 @media (max-width: 374px) {
   body { font-size: 14px; }
 }
+
+/* Hero SVG Hover Effects */
+.hero-svg-container .hero-doc,
+.hero-svg-container .hero-shield,
+.hero-svg-container .hero-calc {
+  transition: transform 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+  transform-origin: center;
+}
+
+.hero-svg-container:hover .hero-doc {
+  transform: translate(80px, 110px) scale(1.02);
+}
+
+.hero-svg-container:hover .hero-shield {
+  transform: translate(55px, 70px) scale(1.06) rotate(-5deg);
+}
+
+.hero-svg-container:hover .hero-calc {
+  transform: translate(285px, 230px) scale(1.04) rotate(3deg);
+}
