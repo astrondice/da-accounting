@@ -49,5 +49,7 @@ Rajpura, Punjab 140401
 
 <p align="center">
   <i>Committed to Excellence in Financial & Legal Compliance</i><br/>
-  <b>© D.A Accounting Services. All Rights Reserved.</b>
+  <b>© D.A Accounting Services. All Rights Reserved.</b><br/>
+  <br/>
+  <sup>Made by <b>ux-dice</b></sup>
 </p>
